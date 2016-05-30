@@ -4,6 +4,13 @@ body{
   background-color: mediumaquamarine;
 }
 
+#logo li{
+  display: table-cell;
+  vertical-align: middle;
+  padding: 0 10px;
+  list-style-type: none;
+}
+
 #gnav a{
   display: block;
   padding: 10px 0;
