@@ -4,6 +4,19 @@ body{
   background-color: mediumaquamarine;
 }
 
+#logo ul{
+  overflow: hidden;
+}
+
+#logo li{
+  float: left;
+  list-style-type: none;
+}
+
+#logo img{
+  width: 100px;
+}
+
 #logo li{
   display: table-cell;
   vertical-align: middle;
