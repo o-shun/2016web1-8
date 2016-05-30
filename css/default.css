@@ -4,6 +4,17 @@ body{
   background-color: mediumaquamarine;
 }
 
+#gnav ul{
+  overflow: hidden;
+}
+
+#gnav li{
+  float: left;
+  width: 156px;
+  border-right: white 1px solid;
+  list-style-type: none;
+}
+
 .breadcrumbs li{
   display: inline;
   list-style-type: none;
